@@ -26,15 +26,8 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, an
 
 ---
 
-## GitHub Stats
+[![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night)](https://github.com/nomi6123)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomi6123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180em" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomi6123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180em" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
