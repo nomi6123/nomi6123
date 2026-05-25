@@ -28,9 +28,11 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, an
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nomi6123&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nomi6123&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nomi6123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180em" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomi6123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="180em" />
+</p>
 
 ---
 
