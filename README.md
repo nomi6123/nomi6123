@@ -25,9 +25,15 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, an
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Enthusiast;Building+Modern+Websites" />
+</p>
 
 [![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night)](https://github.com/nomi6123)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nomi6123&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ## 📫 Connect With Me
 
