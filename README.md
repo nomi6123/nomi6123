@@ -31,7 +31,7 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, an
 
 [![Noman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night)](https://github.com/nomi6123)
 
-![Snake animation](https://github.com/nomi6123/nomi6123/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ## 📫 Connect With Me
