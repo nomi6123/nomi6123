@@ -1,145 +1,47 @@
-
-# 👋 Hi, I'm Muhammad Noman
-
-### 💻 Frontend Developer | React.js | Next.js | JavaScript
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Enthusiast;Building+Modern+Websites" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/nomi6123">
-    <img src="https://img.shields.io/github/followers/nomi6123?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/nomi6123?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-black?style=for-the-badge&logo=github" alt="Repositories" />
-  </a>
-  <a href="https://nomanfrontenddev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
----
-
-## 🚀 About Me
-
-I'm a passionate **Frontend Developer** who loves building clean, responsive, interactive, and user-friendly websites using modern web technologies.
-
-- 🎯 Specialized in **Frontend Web Development**
-- ⚛️ Working with **React.js, Next.js, and JavaScript**
-- 📚 Currently learning **Advanced React, Next.js, APIs, and Python**
-- 🌐 Building fast, responsive, and modern web applications
-- 🎨 Also skilled in **Graphic Design and Photo Editing**
-- 🎬 Experienced in Video Editing and Audio Editing
-- 📄 Skilled in MS Office and InPage Pro
-- 🤝 Open to collaboration on frontend projects and UI/UX designs
-- 💡 Always learning and improving my development skills
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend Technologies" />
-</p>
-
-### Backend & Programming
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python" alt="Backend Technologies" />
-</p>
-
-### Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,npm" alt="Development Tools" />
-</p>
-
-### Design & Creative Tools
-
-<p>
-  <img src="https://img.shields.io/badge/CorelDRAW-00AEEF?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDRAW" />
-  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nomi6123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomi6123&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nomi6123&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-</p>
-
----
-
+\# 👋 Hi, I’m Muhammad Noman\
+\
+I'm a passionate \*\*Frontend Developer\*\* who loves building clean, responsive, and interactive websites using modern technologies like \*\*React.js\*\*, \*\*Next.js\*\*, \*\*JavaScript\*\*, \*\*HTML\*\*, and \*\*CSS\*\*.\
+\
+\---\
+\
+\## 💻 About Me\
+\
+\- 🎯 I specialize in \*\*Frontend Web Development\*\*\
+\- 📚 Currently learning \*\*Advanced React\*\*, \*\*Next.js\*\*, and \*\*APIs\*\*\
+\- 🤝 Open to collaborate on frontend web projects, UI/UX designs, and portfolio websites\
+\- 🌐 Building websites that are \*\*fast\*\*, \*\*responsive\*\*, and \*\*user-friendly\*\*\
+\- 💡 Also skilled in \*\*graphic design\*\*, \*\*video editing\*\*, \*\*audio editing\*\*, \*\*MS Office Expert\*\*, \*\*Inpage Pro\*\*, and \*\*photo editing\*\*\
+\- \*\*Currently Learning Python\*\*\
+\---\
+\
+\## 🛠️ Tech Stack\
+\
+![HTML]\([https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white))\
+![CSS]\([https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square\&logo=css3))\
+![JavaScript]\([https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black))\
+![React]\([https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react](https://img.shields.io/badge/-React-61DAFB?style=flat-square\&logo=react))\
+![Next.js]\([https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square\&logo=next.js))\
+![Git]\([https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white](https://img.shields.io/badge/-Git-F05032?style=flat-square\&logo=git\&logoColor=white))\
+![VS Code]\([https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square\&logo=visual-studio-code))\
+\
+\---\
+\<p align="center">\
+&#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Enthusiast;Building+Modern+Websites](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Enthusiast;Building+Modern+Websites)" />\
+\</p>\
+\
 ## 📈 GitHub Activity Graph
 
-<p align="center">
-  <a href="https://github.com/nomi6123">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nomi6123&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🌐 My Portfolio & Social Links
-
-<p align="center">
-  <a href="https://nomanfrontenddev.vercel.app">
-    <img src="https://img.shields.io/badge/Developer_Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer Portfolio" />
-  </a>
-  <a href="https://graphics-portfolio-lake.vercel.app">
-    <img src="https://img.shields.io/badge/Graphic_Design_Portfolio-Visit-FF5722?style=for-the-badge&logo=figma&logoColor=white" alt="Graphic Design Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-noman-37b1a7327">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.behance.net/muhammadnoman145">
-    <img src="https://img.shields.io/badge/Behance-Portfolio-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
-  </a>
-  <a href="https://github.com/nomi6123">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  📧 <b>Email:</b> noman1137chaya4048@gmail.com
-</p>
-
----
-
-## 💡 My Development Philosophy
-
-> "Code is like humor. When you have to explain it, it's bad."
->
-> — Cory House
-
-<p align="center">
-  <b>✨ Building modern websites, creating meaningful experiences, and learning something new every day! ✨</b>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nomi6123&label=Profile%20Views&color=00C7B7&style=flat" alt="Profile Views" />
-</p>
+[![Noman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night&hide_border=true)](https://github.com/nomi6123)
+\
+\
+\
+\## 📫 Connect With Me\
+\
+\- 🌐 [Portfolio]\([https://graphics-portfolio-lake.vercel.app](https://graphics-portfolio-lake.vercel.app))  \
+\- 💼 [LinkedIn]\([https://www.linkedin.com/in/muhammad-noman-37b1a7327](https://www.linkedin.com/in/muhammad-noman-37b1a7327))  \
+\- 📧 Email: noman1137chaya4048@gmail.com\
+\
+\---\
+\
+\> “Code is like humor. When you have to explain it, it’s bad.” – Cory House\
+&#x20;
