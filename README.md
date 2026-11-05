@@ -67,15 +67,6 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, in
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nomi6123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomi6123&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🔥 GitHub Contribution Streak
 
 <p align="center">
@@ -84,23 +75,6 @@ I'm a passionate **Frontend Developer** who loves building clean, responsive, in
 
 ---
 
-## 📈 GitHub Activity Graph
-
-<p align="center">
-  <a href="https://github.com/nomi6123">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nomi6123&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
 
 ## 🌐 My Portfolio & Social Links
 
