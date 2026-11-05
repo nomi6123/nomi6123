@@ -29,9 +29,7 @@ I'm a passionate \*\*Frontend Developer\*\* who loves building clean, responsive
 &#x20; \<img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Enthusiast;Building+Modern+Websites](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=28\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=700\&lines=Frontend+Developer;React+%7C+Next.js+Developer;JavaScript+Enthusiast;Building+Modern+Websites)" />\
 \</p>\
 \
-## 📈 GitHub Activity Graph
-
-[![Noman's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nomi6123&theme=tokyo-night&hide_border=true)](https://github.com/nomi6123)
+\
 \
 \
 \
